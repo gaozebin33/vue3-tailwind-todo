@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ```bash
 npm i
-# and
+# or
 cnpm i 
 # or
 yarn
