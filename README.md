@@ -8,7 +8,7 @@ npm i
 cnpm i 
 # or
 yarn
-
+# 运行
 npm run dev
 ```
 运行后，访问localhost:3000看实现实现效果。
